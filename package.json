@@ -4,7 +4,8 @@
   "description": "folder for CIT262",
   "main": "index.js",
   "scripts": {
-    "test": "hello"
+    "test": "hello",
+    "hello": "node helloworld.js"
   },
   "repository": {
     "type": "git",
